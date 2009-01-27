@@ -14,7 +14,7 @@ build_requires:
     Test::More: 0
     Test::Pod:  0
 provides:
-   Dotiac::DTL::Addon::markup:
+   Dotiac::DTL::Addon::json:
      file: lib/Dotiac/DTL/Addon/json.pm
      version: 0.1
 meta-spec:
